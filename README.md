@@ -1,11 +1,5 @@
 ## Machine-Learning
 
-Labs for machine learning covering the following topics:
-- Linear Models
-- Clustering
-
----
-
 To convert PyNb -> LaTeX -> PDF:
 
 ```sh
