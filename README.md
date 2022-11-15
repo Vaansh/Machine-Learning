@@ -1,4 +1,4 @@
-## Machine-Learning
+## Machine Learning
 
 To convert Jupyter Notebook &rarr; $\LaTeX$ &rarr; PDF:
 
