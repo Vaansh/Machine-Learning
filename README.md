@@ -1,8 +1,8 @@
 ## Machine-Learning
 
-To convert PyNb &rarr; LaTeX &rarr; PDF:
+To convert Jupyter Notebook &rarr; $\LaTeX$ &rarr; PDF:
 
 ```sh
 $ jupyter nbconvert --to latex labx-exercises.ipynb
-$ xelatex labx-exercises.tex -quiet  
+$ xelatex labx-exercises.tex -quiet
 ```
