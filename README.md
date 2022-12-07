@@ -3,6 +3,7 @@
 To convert Jupyter Notebook &rarr; $\LaTeX$ &rarr; PDF:
 
 ```sh
-$ jupyter nbconvert --to latex labx-exercises.ipynb
-$ xelatex labx-exercises.tex -quiet
+cd subdirectory          # go into the subdirectory
+sh ../convert.sh i [-o]  #  i: the lab number
+                         # -o: the optional override flag
 ```
